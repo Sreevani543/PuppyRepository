@@ -1,0 +1,2 @@
+Newly written file emptied previous one
+ This is appended line

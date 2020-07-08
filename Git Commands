@@ -3,3 +3,6 @@
  or if you alread created repo just give command git clone <remote_repo_url>
 
 $ git pull origin master
+$ git status
+$ git add <filenames>  or git add -A
+$ git commit

@@ -1,0 +1,6 @@
+wb=openpyxl.load_workbook('workbook_path')
+ws =  wb["sheet name"]
+for i in range(1,2):
+	for j ine range(1,2):
+		print(ws.cell(i,j).value)
+
