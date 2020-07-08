@@ -1,0 +1,5 @@
+1) $ git init
+2) $ git remote add origin <remote_repo_url>                  #https://github.com/Sreevani543/PuppyRepository.git
+ or if you alread created repo just give command git clone <remote_repo_url>
+
+$ git pull origin master
